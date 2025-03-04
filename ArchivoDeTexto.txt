@@ -1,5 +1,12 @@
 Esta es nuestra bienvenida
 y esta es la segunda línea
+<<<<<<< HEAD
 
 cuarta linea prueba
 quinta linea prueba
+=======
+y ahora viene la tercera
+
+
+Prueba
+>>>>>>> develop
